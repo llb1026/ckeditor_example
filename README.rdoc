@@ -1,0 +1,3 @@
+== CKEditor Example App
+
+This example app demonstrates how to use CKEditor in Ruby on Rails.  See http://richonrails.com/articles/getting-started-with-ckeditor for details.
